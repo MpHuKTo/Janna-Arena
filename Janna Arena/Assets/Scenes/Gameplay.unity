@@ -892,7 +892,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e799f56e95fa4f34e92c4c799131d73c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 12
+  speed: 10
   joystick: {fileID: 1718393189}
 --- !u!212 &1186231393
 SpriteRenderer:
