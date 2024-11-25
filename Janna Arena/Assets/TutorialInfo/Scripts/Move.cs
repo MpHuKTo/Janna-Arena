@@ -7,7 +7,7 @@ public class Move : MonoBehaviour
     public float speed;
     public FixedJoystick joystick;
     
-    private void Update(){
+    private void FixedUpdate(){
         float moveX = joystick.Horizontal;
         float moveY = joystick.Vertical;
 
